@@ -6,6 +6,7 @@
 - طراحی پایگاه داده با نرم افزار SSMS
 - استفاده از Orm  محبوب مایکروسافت : Entity Framework
 - استفاده از Database First
+- استفاده از زبان کوئری ها یعنی Linq جهت مدیریت داده های دیتابیس
 - استفاده از اصول SOLID
 - استفاده از الگو های Design Pattern , Clean Code
 - استفاده از الگوهای Refactore Code
